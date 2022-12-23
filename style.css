@@ -8,15 +8,18 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
+    flex-wrap: wrap;
 }
 .item{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 200px;
+    width: 400px;
     height:180px;
     background-color: beige;
     color: black;
     margin: 50px;
     text-align: center;
+    overflow: hidden;
 }
