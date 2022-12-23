@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height:180px;
+    background-color: beige;
+    color: black;
+    margin: 50px;
+    text-align: center;
+}
